@@ -1,3 +1,3 @@
 # hola-mundo
 Mi primer Repositorio
-Autor: Vega Rodrigo.
+Autor: Vega Rodrigo..
